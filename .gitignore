@@ -1,0 +1,21 @@
+# 原始数据不纳入版本控制
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行输出
+outputs/
+Table_DynamicStates_M0_M1_H.csv
+*.log
+
+# 系统 / 编辑器
+.DS_Store
+.vscode/
+.idea/
+~$*
+*.asv
